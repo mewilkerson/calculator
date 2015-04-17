@@ -19,8 +19,8 @@
   border-radius: 15px;
   position: relative;
 }
-
-.calculator .display .numbers {
+  
+.calculator .display .displayed-numbers {
   text-align: right;
   font-family: Play, sans-serif;
   font-size: 30px;
